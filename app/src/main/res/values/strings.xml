@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApiNBA</string>
+    <string name="base_url_api">https://api.royaleapi.com/top/clans/FR</string>
+</resources>
